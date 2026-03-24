@@ -1,3 +1,3 @@
-# vibe-codeing
+# vibe-coding
 
 Краткое описание проекта.
